@@ -33,6 +33,10 @@
   text-decoration: none;
 }
 
+.title a.red{
+  color: #ff068f;
+}
+
 .title a:hover,
 .title a:focus,
 .title a:active {
